@@ -1,0 +1,2 @@
+# SlackIntegration.js
+Slack integration
